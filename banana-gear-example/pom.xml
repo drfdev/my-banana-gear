@@ -14,4 +14,20 @@
     <artifactId>banana-gear-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Banana Gear Examples</name>
+    <description>Example of my banana!</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>dev.drf.gear.banana.core</groupId>
+            <artifactId>banana-gear-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>dev.drf.gear.banana.shared</groupId>
+            <artifactId>banana-gear-shared</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
+
 </project>
