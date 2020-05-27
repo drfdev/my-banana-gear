@@ -14,9 +14,9 @@
     <description>Do you like banana?</description>
 
     <modules>
-        <module>banana-gear-core</module>
+        <module>banana-gear-graphic</module>
         <module>banana-gear-example</module>
-        <module>banana-gear-shared</module>
+        <module>banana-gear-common</module>
     </modules>
 
     <properties>

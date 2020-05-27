@@ -19,13 +19,13 @@
 
     <dependencies>
         <dependency>
-            <groupId>dev.drf.gear.banana.core</groupId>
-            <artifactId>banana-gear-core</artifactId>
+            <groupId>dev.drf.gear.banana.graphic</groupId>
+            <artifactId>banana-gear-graphic</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>dev.drf.gear.banana.shared</groupId>
-            <artifactId>banana-gear-shared</artifactId>
+            <groupId>dev.drf.gear.banana.common</groupId>
+            <artifactId>banana-gear-common</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>

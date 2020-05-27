@@ -10,8 +10,8 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>dev.drf.gear.banana.core</groupId>
-    <artifactId>banana-gear-core</artifactId>
+    <groupId>dev.drf.gear.banana.graphic</groupId>
+    <artifactId>banana-gear-graphic</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>Banana Gear Core</name>
@@ -19,8 +19,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>dev.drf.gear.banana.shared</groupId>
-            <artifactId>banana-gear-shared</artifactId>
+            <groupId>dev.drf.gear.banana.common</groupId>
+            <artifactId>banana-gear-common</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
